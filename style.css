@@ -1,0 +1,101 @@
+*¨{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+body {
+    background-color: #D1B6D1 ;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+#container {
+    width: 1600px;
+    margin: 0px auto;
+    
+
+}
+
+header {
+    background: #EEDAEE;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    line-height: 100px;
+    color: #464446;
+
+}
+
+nav{
+    height: 50px;
+}
+
+nav ul li {
+    float: left;
+    list-style: none;
+    margin: 10px;
+    background: #A58FA5;
+    height: 40px;
+    line-height: 20px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #514951;
+}
+
+ul {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+}
+
+.caja1 {
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
+.caja2 {
+    background-color: cyan;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
+.caja3 {
+    background-color: darkblue;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
+.caja4 {
+    background-color: gold;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
+.caja5 {
+    background-color: lightskyblue;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
